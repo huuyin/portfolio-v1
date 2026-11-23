@@ -2,7 +2,7 @@
 
 My personal portfolio site, showcasing my work as a Product Manager focused on digital transformation and AI.
 
-**Live site:** [huuyin.github.io/shermaine](https://huuyin.github.io/shermaine/)
+**Live site:** [huuyin.github.io/portfolio-v1](https://huuyin.github.io/portfolio-v1/)
 
 ![Portfolio homepage screenshot](screenshot.png)
 
